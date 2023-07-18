@@ -2,8 +2,6 @@
 
 To-do-list
 
-You Can See The Project Live On: Her (https://amirhoseinhesami.github.io/To-Do_App/)
-
 Features:
 
 - Done To-Dos
